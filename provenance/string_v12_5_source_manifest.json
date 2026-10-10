@@ -1,0 +1,26 @@
+[
+  {
+    "file": "9606.protein.links.v12.5.txt.gz",
+    "url": "https://stringdb-downloads.org/download/protein.links.v12.5/9606.protein.links.v12.5.txt.gz",
+    "bytes": 62813591,
+    "sha256": "3d6894ef3a0a8578b70421b7d6bac159c41ed2f6c1b5da21ab7fabb4ac21cd25"
+  },
+  {
+    "file": "9606.protein.physical.links.v12.5.txt.gz",
+    "url": "https://stringdb-downloads.org/download/protein.physical.links.v12.5/9606.protein.physical.links.v12.5.txt.gz",
+    "bytes": 7334524,
+    "sha256": "f3a6a5f8e53e9d0a7b2841544e18d823dc13ae53d6771ca23a6011c2b63ee8c5"
+  },
+  {
+    "file": "9606.protein.enrichment.terms.v12.5.txt.gz",
+    "url": "https://stringdb-downloads.org/download/protein.enrichment.terms.v12.5/9606.protein.enrichment.terms.v12.5.txt.gz",
+    "bytes": 45938869,
+    "sha256": "1db2f7f955d9fd0d8984d30911ebfd2abd7690e8ab1a6d1ce278355078a79f45"
+  },
+  {
+    "file": "9606.protein.info.v12.5.txt.gz",
+    "url": "https://stringdb-downloads.org/download/protein.info.v12.5/9606.protein.info.v12.5.txt.gz",
+    "bytes": 1970090,
+    "sha256": "144de4b0d98c6a7dfde6ddc2591cf88657f27b989eadff4f501450c3ed1f0f1c"
+  }
+]
